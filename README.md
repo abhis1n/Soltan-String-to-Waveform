@@ -14,6 +14,7 @@ This python script converts input string to audio waveform using the **Waveform 
 4. Run the _gen.py_ file and it will generate **output.wav** as the output
 
 ### Note
+- Currently there's no support for only chararacters other than words, all other characters are replaced with spaces
 - Spaces are replaced with _sp.wav_ which is 0.321s long
 - Extra space has been added between each letter (_small.wav_) which is 0.053s long
 - For letters with multiple waveforms, a preffered one is used for readable outputs
