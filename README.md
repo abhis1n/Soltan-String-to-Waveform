@@ -1,6 +1,6 @@
 # Soltan-String-to-Waveform
 <p align="center">
-  <img src="./img/waveform.png" alt="Sample waveform"/>
+  <img src="https://user-images.githubusercontent.com/114600095/219721358-4e4267b2-dc8d-4d02-b344-f77e4171af9c.png" alt="Sample waveform"/>
 </p>
 
 ## About
