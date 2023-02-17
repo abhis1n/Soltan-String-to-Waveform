@@ -14,7 +14,7 @@ for i in inputstr.upper():
     elif i == 'B':
         wordlist.append(namer("b1"))
     elif i == 'C':
-        wordlist.append(namer("c1"))
+        wordlist.append(namer("C1"))
     elif i == 'D':
         wordlist.append(namer("D"))
     elif i == 'E':
